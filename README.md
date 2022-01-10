@@ -9,8 +9,6 @@
 
 [![FrontToEnd's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrontToEnd&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Metrics](https://metrics.lecoq.io/FrontToEnd?template=classic&config.timezone=Asia%2FShanghai)
-
 ![WebStorm](https://img.shields.io/badge/Tool-WebStorm-blue)
 
 ![F2E](https://img.shields.io/badge/Job-F2E-brightgreen)
