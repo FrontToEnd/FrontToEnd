@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on NanJing.
-- 🌱 I’m currently learning The software design.
+- 🌱 I’m currently learning The Front-end Engineering.
 - 📫 How to reach me: [https://www.qukun.com.cn/](https://www.qukun.com.cn/)
 - ⚡ 公众号：前端F2E
 - 📚 My Email: chuck.qukun@gmail.com
