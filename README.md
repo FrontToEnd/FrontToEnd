@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on NanJing.
+- 🔭 I’m currently working on xi'an.
 - 🌱 I’m currently learning The Front-end Engineering.
-- 📫 How to reach me: [https://www.qukun.com.cn/](https://www.qukun.com.cn/)
+- 📫 How to reach me: [https://findingai.top](https://findingai.top)
 - ⚡ 公众号：前端F2E
 - 📚 My Email: chuck.qukun@gmail.com
 
