@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on xi'an.
 - 🌱 I’m currently learning The Front-end Engineering.
-- 📫 How to reach me: [https://findingai.top](https://findingai.top)
+- 📫 My first website: [https://findingai.top](https://findingai.top)
 - ⚡ 公众号：前端F2E
 - 📚 My Email: chuck.qukun@gmail.com
 
